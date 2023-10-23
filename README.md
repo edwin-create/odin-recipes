@@ -1,1 +1,2 @@
-# odin-recipes
+This is my first project per TOP. This project involves the creation of a Recipes page using HTML. 
+At the end of the exercise, I will have demonstarted basic skills in version control, HTML links and images, HTML lists, and other HTML elements. 
